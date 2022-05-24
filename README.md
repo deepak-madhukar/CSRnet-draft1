@@ -20,7 +20,7 @@ Just Run all the codeblocks in Part A and Part B python notebook
 
 ## Results
 Shanghai A MAE: 39.2
--
+######
 Shanghai B MAE: 8.32
 
 ## References
