@@ -9,8 +9,8 @@ ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4F
 Either run this codebase on your loacal machine if you have atleast 8gb video memory or you can use any online gpu providing services.
 
 ### for Local machine setup you  ust have
-Python:3.7 or later
-PyTorch: 0.4.0
+Python:3.7 or later,
+PyTorch: 0.4.0,
 CUDA: 9.2
 
 ### For online GPU providing services
