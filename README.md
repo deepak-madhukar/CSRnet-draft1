@@ -6,7 +6,7 @@ This is the repo for devloping a pytho  software to cout or estimate the density
 ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI)
 
 ## Prerequisites
-You can either run this codebase on your loacal machine if you have atleast 8gb video memory or you can use any online gpu providing services.
+Either run this codebase on your loacal machine if you have atleast 8gb video memory or you can use any online gpu providing services.
 
 ### for Local machine setup you  ust have
 Python:3.7 or later
